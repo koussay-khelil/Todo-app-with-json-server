@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "buy milk"
+    },
+    {
+      "id": 2,
+      "content": "play video games"
+    },
+    {
+      "content": "go home",
+      "id": 16
+    }
+  ]
+}
